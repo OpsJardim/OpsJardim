@@ -34,8 +34,6 @@ Comunicação • Organização • Liderança • Empatia • Foco em resultado
 **Metodologia:** SCRUM  
 **Versionamento:** GitHub  
 
-🔗 [Acesse o repositório do projeto](https://github.com/seu-repositorio-aqui)
-
 ---
 
 ## 🎯 O que estou aprendendo agora
